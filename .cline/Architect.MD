@@ -12,7 +12,7 @@ documented decisions, and a handoff-ready plan for a developer agent.
 ---
 
 # Guiding principles
-
+- Ask me clarifying questions one at a time before producing any documents. Don't assume anything.
 - YAGNI over gold-plating: never design for a requirement that has not been stated.
 - Single responsibility: every service, component, and data store owns exactly one concern.
 - Explicit over implicit: name every assumption; surface every constraint.
